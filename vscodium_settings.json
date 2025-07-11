@@ -1,0 +1,9 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 17,
+    "terminal.integrated.fontSize": 19,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "terminal.integrated.commandsToSkipShell": [
+        "-workbench.action.quickOpen"
+    ]
+}
